@@ -1,0 +1,1422 @@
+﻿911805	Radiological reduction of intussusception of ileum using air enema
+911806	Other fibreoptic endoscopic extirpation of lesion of oesophagus
+911807	Fibreoptic endoscopic mucosal resection of lesion of oesophagus
+911808	Other specified other fibreoptic endoscopic extirpation of lesion of oesophagus
+911809	Unspecified other fibreoptic endoscopic extirpation of lesion of oesophagus
+911810	Therapeutic fibreoptic endoscopic operations on oesophagus
+911811	Fibreoptic endoscopic coagulation of bleeding lesion of oesophagus
+911812	Other specified therapeutic fibreoptic endoscopic operations on oesophagus
+911813	Unspecified therapeutic fibreoptic endoscopic operations on oesophagus
+911814	Fibreoptic endoscopic mucosal resection of lesion of upper gastrointestinal tract
+911815	Fibreoptic endoscopic coagulation of bleeding lesion of upper gastrointestinal tract
+911816	Fibreoptic endoscopic mucosal resection of lesion of colon
+911817	Endoscopic mucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope
+911818	Other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
+911819	Endoscopic mucosal resection of lesion of sigmoid colon using rigid sigmoidoscope
+911820	Other specified other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
+911821	Unspecified other endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
+44509564	Oesophagogastrectomy and anastomosis of oesophagus to stomach
+44509565	Oesophagogastrectomy and anastomosis of oesophagus to transposed jejunum
+44509566	Oesophagogastrectomy and anastomosis of oesophagus to jejunum NEC
+44509567	Other specified excision of oesophagus and stomach
+44509568	Unspecified excision of oesophagus and stomach
+44509569	Total oesophagectomy and anastomosis of pharynx to stomach
+44509570	Total oesophagectomy and interposition of microvascularly attached jejunum
+44509571	Total oesophagectomy and interposition of jejunum NEC
+44509572	Total oesophagectomy and interposition of microvascularly attached colon
+44509573	Total oesophagectomy and interposition of colon NEC
+44509574	Other specified total excision of oesophagus
+44509575	Unspecified total excision of oesophagus
+44509576	Partial oesophagectomy and end to end anastomosis of oesophagus
+44509577	Partial oesophagectomy and interposition of microvascularly attached jejunum
+44509578	Partial oesophagectomy and anastomosis of oesophagus to transposed jejunum
+44509579	Partial oesophagectomy and anastomosis of oesophagus to jejunum NEC
+44509580	Partial oesophagectomy and interposition of microvascularly attached colon
+44509581	Partial oesophagectomy and interposition of colon NEC
+44509582	Other specified partial excision of oesophagus
+44509583	Unspecified partial excision of oesophagus
+44509584	Excision of lesion of oesophagus
+44509585	Open laser destruction of lesion of oesophagus
+44509586	Open destruction of lesion of oesophagus NEC
+44509587	Other specified open extirpation of lesion of oesophagus
+44509588	Unspecified open extirpation of lesion of oesophagus
+44509589	Bypass of oesophagus by anastomosis of oesophagus to oesophagus
+44509590	Bypass of oesophagus by anastomosis of oesophagus to stomach
+44509591	Bypass of oesophagus by interposition of microvascularly attached jejunum
+44509592	Bypass of oesophagus by interposition of jejunum NEC
+44509593	Bypass of oesophagus by interposition of microvascularly attached colon
+44509594	Bypass of oesophagus by interposition of colon NEC
+44509595	Other specified bypass of oesophagus
+44509596	Unspecified bypass of oesophagus
+44509597	Conversion from previous direct anastomosis of oesophagus
+44509598	Revision of interposition anastomosis of oesophagus
+44509599	Revision of anastomosis of oesophagus NEC
+44509600	Removal of bypass of oesophagus
+44509601	Closure of bypass of oesophagus NEC
+44509602	Other specified attention to connection of oesophagus
+44509603	Unspecified attention to connection of oesophagus
+44509604	Closure of tracheo-oesophageal fistula
+44509605	Closure of fistula of oesophagus NEC
+44509606	Correction of congenital atresia of oesophagus
+44509607	Repair of rupture of oesophagus
+44509608	Other specified repair of oesophagus
+44509609	Unspecified repair of oesophagus
+44509610	Exteriorisation of pouch of oesophagus
+44509611	External fistulisation of oesophagus NEC
+44509612	Tube oesophagostomy
+44509613	Other specified artificial opening into oesophagus
+44509614	Unspecified artificial opening into oesophagus
+44509615	Cardiomyotomy
+44509616	Oesophagomyotomy NEC
+44509617	Division of web of oesophagus
+44509618	Drainage of oesophagus
+44509619	Other specified incision of oesophagus
+44509620	Unspecified incision of oesophagus
+44509621	Disconnection of azygos vein
+44509622	Transection of oesophagus using staple gun
+44509623	Transection of oesophagus NEC
+44509624	Local ligation of varices of oesophagus
+44509625	Open injection sclerotherapy to varices of oesophagus
+44509626	Other specified open operations on varices of oesophagus
+44509627	Unspecified open operations on varices of oesophagus
+44509628	Insertion of tubal prosthesis into oesophagus through stomach
+44509629	Open insertion of tubal prosthesis into oesophagus NEC
+44509630	Open revision of tubal prosthesis in oesophagus
+44509631	Open removal of tubal prosthesis from oesophagus
+44509632	Other specified open placement of prosthesis in oesophagus
+44509633	Unspecified open placement of prosthesis in oesophagus
+44509634	Open biopsy of lesion of oesophagus
+44509635	Open removal of foreign body from oesophagus
+44509636	Other specified other open operations on oesophagus
+44509637	Unspecified other open operations on oesophagus
+44509638	Fibreoptic endoscopic snare resection of lesion of oesophagus
+44509639	Fibreoptic endoscopic laser destruction of lesion of oesophagus
+44509640	Fibreoptic endoscopic cauterisation of lesion of oesophagus
+44509641	Fibreoptic endoscopic injection sclerotherapy to varices of oesophagus
+44509642	Fibreoptic endoscopic destruction of lesion of oesophagus NEC
+44509643	Fibreoptic endoscopic submucosal resection of lesion of oesophagus
+44509644	Fibreoptic endoscopic photodynamic therapy of lesion of oesophagus
+44509645	Other specified fibreoptic endoscopic extirpation of lesion of oesophagus
+44509646	Unspecified fibreoptic endoscopic extirpation of lesion of oesophagus
+44509647	Fibreoptic endoscopic removal of foreign body from oesophagus
+44509648	Fibreoptic endoscopic balloon dilation of oesophagus
+44509649	Fibreoptic endoscopic dilation of oesophagus NEC
+44509650	Fibreoptic endoscopic insertion of tubal prosthesis into oesophagus
+44509651	Fibreoptic endoscopic dilation of web of oesophagus
+44509652	Fibreoptic endoscopic insertion of expanding metal stent into oesophagus NEC
+44509653	Fibreoptic endoscopic insertion of expanding covered metal stent into oesophagus
+44509654	Other specified other therapeutic fibreoptic endoscopic operations on oesophagus
+44509655	Unspecified other therapeutic fibreoptic endoscopic operations on oesophagus
+44509656	Diagnostic fibreoptic endoscopic examination of oesophagus and biopsy of lesion of oesophagus
+44509657	Diagnostic fibreoptic endoscopic ultrasound examination of oesophagus
+44509658	Diagnostic fibreoptic insertion of Bravo pH capsule into oesophagus
+44509659	Other specified diagnostic fibreoptic endoscopic examination of oesophagus
+44509660	Unspecified diagnostic fibreoptic endoscopic examination of oesophagus
+44509661	Endoscopic snare resection of lesion of oesophagus using rigid oesophagoscope
+44509662	Endoscopic laser destruction of lesion of oesophagus using rigid oesophagoscope
+44509663	Endoscopic cauterisation of lesion of oesophagus using rigid oesophagoscope
+44509664	Endoscopic injection sclerotherapy to varices of oesophagus using rigid oesophagoscope
+44509665	Other specified endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope
+44509666	Unspecified endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope
+44509667	Endoscopic removal of foreign body from oesophagus using rigid oesophagoscope
+44509668	Endoscopic balloon dilation of oesophagus using rigid oesophagoscope
+44509669	Endoscopic dilation of oesophagus using rigid oesophagoscope NEC
+44509670	Endoscopic insertion of tubal prosthesis into oesophagus using rigid oesophagoscope
+44509671	Dilation of web of oesophagus using rigid oesophagoscope
+44509672	Other specified other therapeutic endoscopic operations on oesophagus using rigid oesophagoscope
+44509673	Unspecified other therapeutic endoscopic operations on oesophagus using rigid oesophagoscope
+44509674	Diagnostic endoscopic examination of oesophagus and biopsy of lesion of oesophagus using rigid oesophagoscope
+44509675	Diagnostic endoscopic insertion of Bravo pH capsule using rigid oesophagoscope
+44509676	Other specified diagnostic endoscopic examination of oesophagus using rigid oesophagoscope
+44509677	Unspecified diagnostic endoscopic examination of oesophagus using rigid oesophagoscope
+44509678	Intubation of oesophagus for pH manometry
+44509679	Intubation of oesophagus for pressure manometry
+44509680	Intubation of oesophagus and instillation of acid or alkali HFQ
+44509681	Intubation of oesophagus NEC
+44509682	Insertion of stent into oesophagus NEC
+44509683	Other specified other operations on oesophagus
+44509684	Unspecified other operations on oesophagus
+44509685	Repair of oesophageal hiatus using thoracic approach
+44509686	Repair of diaphragmatic hernia using thoracic approach NEC
+44509687	Repair of oesophageal hiatus using abdominal approach
+44509688	Repair of diaphragmatic hernia using abdominal approach NEC
+44509689	Other specified repair of diaphragmatic hernia
+44509690	Unspecified repair of diaphragmatic hernia
+44509691	Antireflux fundoplication using thoracic approach
+44509692	Antireflux operation using thoracic approach NEC
+44509693	Antireflux fundoplication using abdominal approach
+44509694	Antireflux gastropexy
+44509695	Gastroplasty and antireflux procedure HFQ
+44509696	Insertion of Angelchick prosthesis
+44509697	Other specified antireflux operations
+44509698	Unspecified antireflux operations
+44509699	Revision of fundoplication of stomach
+44509700	Adjustment to Angelchick prosthesis
+44509701	Removal of Angelchick prosthesis
+44509702	Other specified revision of antireflux operations
+44509703	Unspecified revision of antireflux operations
+44509704	Allotransplantation of stomach
+44509705	Other specified transplantation of stomach
+44509706	Unspecified transplantation of stomach
+44509707	Total gastrectomy and excision of surrounding tissue
+44509708	Total gastrectomy and anastomosis of oesophagus to duodenum
+44509709	Total gastrectomy and interposition of jejunum
+44509710	Total gastrectomy and anastomosis of oesophagus to transposed jejunum
+44509711	Total gastrectomy and anastomosis of oesophagus to jejunum NEC
+44509712	Other specified total excision of stomach
+44509713	Unspecified total excision of stomach
+44509714	Partial gastrectomy and anastomosis of stomach to duodenum
+44509715	Partial gastrectomy and anastomosis of stomach to transposed jejunum
+44509716	Partial gastrectomy and anastomosis of stomach to jejunum NEC
+44509717	Sleeve gastrectomy and duodenal switch
+44509718	Sleeve gastrectomy NEC
+44509719	Other specified partial excision of stomach
+44509720	Unspecified partial excision of stomach
+44509721	Open excision of polyp of stomach
+44509722	Open excision of lesion of stomach NEC
+44509723	Open laser destruction of lesion of stomach
+44509724	Diathermy to lesion of stomach
+44509725	Cryotherapy to lesion of stomach
+44509726	Other specified open extirpation of lesion of stomach
+44509727	Unspecified open extirpation of lesion of stomach
+44509728	Gastroplasty NEC
+44509729	Partitioning of stomach NEC
+44509730	Partitioning of stomach using band
+44509731	Partitioning of stomach using staples
+44509732	Maintenance of gastric band
+44509733	Other specified plastic operations on stomach
+44509734	Unspecified plastic operations on stomach
+44509735	Conversion from previous anastomosis of stomach to duodenum
+44509736	Bypass of stomach by anastomosis of oesophagus to duodenum
+44509737	Bypass of stomach by anastomosis of stomach to duodenum
+44509738	Revision of anastomosis of stomach to duodenum
+44509739	Conversion to anastomosis of stomach to duodenum
+44509740	Closure of connection of stomach to duodenum
+44509741	Attention to connection of stomach to duodenum
+44509742	Other specified connection of stomach to duodenum
+44509743	Unspecified connection of stomach to duodenum
+44509744	Conversion from previous anastomosis of stomach to transposed jejunum
+44509745	Bypass of stomach by anastomosis of stomach to transposed jejunum
+44509746	Revision of anastomosis of stomach to transposed jejunum
+44509747	Conversion to anastomosis of stomach to transposed jejunum
+44509748	Closure of connection of stomach to transposed jejunum
+44509749	Attention to connection of stomach to transposed jejunum
+44509750	Other specified connection of stomach to transposed jejunum
+44509751	Unspecified connection of stomach to transposed jejunum
+44509752	Conversion from previous anastomosis of stomach to jejunum NEC
+44509753	Bypass of stomach by anastomosis of stomach to jejunum NEC
+44509754	Revision of anastomosis of stomach to jejunum NEC
+44509755	Conversion to anastomosis of stomach to jejunum NEC
+44509756	Open reduction of intussusception of gastroenterostomy
+44509757	Closure of connection of stomach to jejunum NEC
+44509758	Attention to connection of stomach to jejunum
+44509759	Other specified other connection of stomach to jejunum
+44509760	Unspecified other connection of stomach to jejunum
+44509761	Creation of permanent gastrostomy
+44509762	Creation of temporary gastrostomy
+44509763	Reconstruction of gastrostomy
+44509764	Closure of gastrostomy
+44509765	Attention to gastrostomy tube
+44509766	Other specified artificial opening into stomach
+44509767	Unspecified artificial opening into stomach
+44509768	Closure of perforated ulcer of stomach
+44509769	Closure of ulcer of stomach NEC
+44509770	Other specified operations on ulcer of stomach
+44509771	Unspecified operations on ulcer of stomach
+44509772	Gastropexy NEC
+44509773	Closure of perforation of stomach NEC
+44509774	Closure of abnormal opening of stomach NEC
+44509775	Other specified other repair of stomach
+44509776	Unspecified other repair of stomach
+44509777	Open biopsy of lesion of stomach
+44509778	Open insertion of prosthesis into stomach
+44509779	Open insertion of feeding tube into stomach
+44509780	Open removal of foreign body from stomach
+44509781	Incision of stomach NEC
+44509782	Reduction of volvulus of stomach
+44509783	Removal of gastric band
+44509784	Other specified other open operations on stomach
+44509785	Unspecified other open operations on stomach
+44509786	Pyloromyotomy
+44509787	Repair of congenital atresia of pylorus
+44509788	Pyloroplasty NEC
+44509789	Revision of pyloroplasty
+44509790	Closure of pyloroplasty
+44509791	Open dilation of pylorus
+44509792	Other specified incision of pylorus
+44509793	Unspecified incision of pylorus
+44509794	Open biopsy of lesion of pylorus
+44509795	Repair of perforation of pylorus
+44509796	Other specified other operations on pylorus
+44509797	Unspecified other operations on pylorus
+44509798	Fibreoptic endoscopic submucosal resection of lesion of upper gastrointestinal tract
+44509799	Fibreoptic endoscopic photodynamic therapy of lesion of upper gastrointestinal tract
+44509800	Other specified other fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
+44509801	Unspecified other fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
+44509802	Fibreoptic endoscopic snare resection of lesion of upper gastrointestinal tract
+44509803	Fibreoptic endoscopic laser destruction of lesion of upper gastrointestinal tract
+44509804	Fibreoptic endoscopic cauterisation of lesion of upper gastrointestinal tract
+44509805	Fibreoptic endoscopic sclerotherapy to lesion of upper gastrointestinal tract
+44509806	Fibreoptic endoscopic destruction of lesion of upper gastrointestinal tract NEC
+44509807	Fibreoptic endoscopic injection therapy to lesion of upper gastrointestinal tract NEC
+44509808	Fibreoptic endoscopic rubber band ligation of upper gastrointestinal tract varices
+44509809	Other specified fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
+44509810	Unspecified fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
+44509811	Fibreoptic endoscopic insertion of prosthesis into upper gastrointestinal tract
+44509812	Fibreoptic endoscopic removal of foreign body from upper gastrointestinal tract
+44509813	Fibreoptic endoscopic dilation of upper gastrointestinal tract NEC
+44509814	Fibreoptic endoscopic reduction of intussusception of gastroenterostomy
+44509815	Fibreoptic endoscopic percutaneous insertion of gastrostomy
+44509816	Fibreoptic endoscopic pressure controlled balloon dilation of lower oesophageal sphincter
+44509817	Fibreoptic endoscopic removal of gastrostomy tube
+44509818	Other specified other therapeutic fibreoptic endoscopic operations on upper gastrointestinal tract
+44509819	Unspecified other therapeutic fibreoptic endoscopic operations on upper gastrointestinal tract
+44509820	Fibreoptic endoscopic examination of upper gastrointestinal tract and biopsy of lesion of upper gastrointestinal tract
+44509821	Fibreoptic endoscopic ultrasound examination of upper gastrointestinal tract
+44509822	Fibreoptic endoscopic insertion of Bravo pH capsule into upper gastrointestinal tract
+44509823	Fibreoptic endoscopic examination of upper gastrointestinal tract and staining of gastric mucosa
+44509824	Other specified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract
+44509825	Unspecified diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract
+44509826	Fibreoptic endoscopic endoluminal plication of gastro-oesophageal junction
+44509827	Other specified therapeutic fibreoptic endoscopic operations on upper gastrointestinal tract
+44509828	Unspecified therapeutic fibreoptic endoscopic operations on upper gastrointestinal tract
+44509829	Intubation of stomach for pH manometry
+44509830	Intubation of stomach for pressure manometry
+44509831	Irrigation of stomach
+44509832	Intubation of stomach for study of gastric secretion
+44509833	Other specified intubation of stomach
+44509834	Unspecified intubation of stomach
+44509835	Insertion of gastric bubble
+44509836	Attention to gastric bubble
+44509837	Induction of emesis
+44509838	Administration of activated charcoal
+44510080	Insertion of encircling suture around perianal sphincter
+44510081	Perineal plication of levator ani muscles and anal sphincters
+44510082	Insertion of supralevator sling
+44510083	Removal of encircling suture from around perianal sphincter
+44510084	Excision of mucosal prolapse of rectum NEC
+44510085	Perineal repair of prolapse of rectum NEC
+44510086	Other specified perineal operations for prolapse of rectum
+44510087	Unspecified perineal operations for prolapse of rectum
+44510088	Manual removal of foreign body from rectum
+44510089	Manual reduction of prolapse of rectum
+44510090	Manual evacuation of impacted faeces from rectum
+44510091	Examination of rectum under anaesthetic
+44510092	Massage of rectum
+44510093	Other specified manipulation of rectum
+44510094	Unspecified manipulation of rectum
+44510095	Radiological reduction of intussusception of rectum using barium enema
+44510096	Hydrostatic reduction of intussusception of rectum
+44510097	Intubation of rectum for pressure manometry
+44510098	Intubation of rectum NEC
+44510099	Other specified other operations on rectum
+44510100	Unspecified other operations on rectum
+44510101	Excision of sphincter of anus
+44510102	Other specified excision of anus
+44510103	Unspecified excision of anus
+44510104	Excision of polyp of anus
+44510105	Excision of skin tag of anus
+44510106	Excision of perianal wart
+44510107	Other specified excision of lesion of anus
+44510108	Unspecified excision of lesion of anus
+44510109	Cauterisation of lesion of anus
+44510110	Laser destruction of lesion of anus
+44510111	Cryotherapy to lesion of anus
+44510112	Other specified destruction of lesion of anus
+44510113	Unspecified destruction of lesion of anus
+44510114	Posterior repair of anal sphincter
+44510115	Anterior repair of anal sphincter
+44510116	Cutback of covered anus
+44510117	Reanastomosis of rectum to anal canal for correction of congenital atresia of rectum
+44510118	Other specified repair of anus
+44510119	Unspecified repair of anus
+44510120	Haemorrhoidectomy
+44510121	Partial internal sphincterotomy for haemorrhoid
+44510122	Stapled haemorrhoidectomy
+44510123	Other specified excision of haemorrhoid
+44510124	Unspecified excision of haemorrhoid
+44510125	Cryotherapy to haemorrhoid
+44510126	Infrared photocoagulation of haemorrhoid
+44510127	Injection of sclerosing substance into haemorrhoid
+44510128	Rubber band ligation of haemorrhoid
+44510129	Other specified destruction of haemorrhoid
+44510130	Unspecified destruction of haemorrhoid
+44510131	Evacuation of perianal haematoma
+44510132	Forced manual dilation of anus for haemorrhoid
+44510133	Manual reduction of prolapsed haemorrhoid
+44510134	Other specified other operations on haemorrhoid
+44510135	Unspecified other operations on haemorrhoid
+44510136	Anorectal stretch
+44510137	Other specified dilation of anal sphincter
+44510138	Unspecified dilation of anal sphincter
+44510139	Laying open of low anal fistula
+44510140	Laying open of high anal fistula
+44510141	Laying open of anal fistula NEC
+44510142	Insertion of seton into high anal fistula and partial laying open of track HFQ
+44510143	Fistulography of anal fistula
+44510144	Probing of perineal fistula
+44510145	Repair of anal fistula using plug
+44510146	Other specified other operations on perianal region
+44510147	Unspecified other operations on perianal region
+44510148	Biopsy of lesion of anus
+44510149	Lateral sphincterotomy of anus
+44510150	Incision of septum of anus
+44510151	Excision of anal fissure
+44510152	Other specified other operations on anus
+44510153	Unspecified other operations on anus
+44510154	Placement of artificial anal sphincter NEC
+44510155	Maintenance of artificial anal sphincter NEC
+44510156	Removal of artificial anal sphincter NEC
+44510157	Creation of graciloplasty sphincter
+44510158	Placement of dynamic graciloplasty sphincter
+44510159	Maintenance of dynamic graciloplasty sphincter
+44510160	Removal of dynamic graciloplasty sphincter
+44510161	Other specified other operations on the anal sphincter to control continence
+44510162	Unspecified other operations on the anal sphincter to control continence
+44510163	Drainage of ischiorectal abscess
+44510164	Drainage of perianal abscess
+44510165	Drainage of perirectal abscess
+44510166	Other specified drainage through perineal region
+44510167	Unspecified drainage through perineal region
+44510168	Excision of pilonidal sinus and Z plasty skin flap HFQ
+44510169	Excision of pilonidal sinus and skin flap NEC
+44510170	Excision of pilonidal sinus and skin graft HFQ
+44510171	Excision of pilonidal sinus and suture HFQ
+44510172	Other specified excision of pilonidal sinus
+44510173	Unspecified excision of pilonidal sinus
+44510174	Destruction of pilonidal sinus
+44510175	Laying open of pilonidal sinus
+44510176	Drainage of pilonidal sinus
+44510177	Injection of radiocontrast substance into pilonidal sinus
+44510178	Other specified other operations on pilonidal sinus
+44510179	Unspecified other operations on pilonidal sinus
+44510180	Laser recanalisation of bowel NEC
+44510181	Mobilisation of bowel NEC
+44510182	Dilation of bowel NEC
+44510183	Intubation of bowel NEC
+44510184	Irrigation of bowel NEC
+44510185	Proctoscopy
+44510186	Other specified other operations on bowel
+44510187	Unspecified other operations on bowel
+44510188	Excision of ileoanal pouch
+44510189	Revision of ileoanal pouch
+44510190	Other specified therapeutic operations on ileoanal pouch
+44510191	Unspecified therapeutic operations on ileoanal pouch
+44510192	Diagnostic endoscopic examination of colonic pouch and biopsy of colonic pouch using colonoscope
+44510193	Diagnostic endoscopic examination of colonic pouch using colonoscope NEC
+44510194	Diagnostic endoscopic examination of ileoanal pouch and biopsy of ileoanal pouch using colonoscope
+44510195	Diagnostic endoscopic examination of ileoanal pouch using colonoscope NEC
+44510196	Other specified diagnostic endoscopic examination of enteric pouch using colonoscope
+44510197	Unspecified diagnostic endoscopic examination of enteric pouch using colonoscope
+44510198	Diagnostic endoscopic examination of colonic pouch and biopsy of colonic pouch using fibreoptic sigmoidoscope
+44510199	Diagnostic endoscopic examination of colonic pouch using fibreoptic sigmoidoscope NEC
+44510200	Diagnostic endoscopic examination of ileoanal pouch and biopsy of ileoanal pouch using fibreoptic sigmoidoscope
+44510201	Diagnostic endoscopic examination of ileoanal pouch using fibreoptic sigmoidoscope NEC
+44510202	Other specified diagnostic endoscopic examination of enteric pouch using fibreoptic sigmoidoscope
+44510203	Unspecified diagnostic endoscopic examination of enteric pouch using fibreoptic sigmoidoscope
+44510204	Diagnostic endoscopic examination of colonic pouch and biopsy of colonic pouch using rigid sigmoidoscope
+44510205	Diagnostic endoscopic examination of colonic pouch using rigid sigmoidoscope NEC
+44510206	Diagnostic endoscopic examination of ileoanal pouch and biopsy of ileoanal pouch using rigid sigmoidoscope
+44510207	Diagnostic endoscopic examination of ileoanal pouch using rigid sigmoidoscope NEC
+44510208	Other specified diagnostic endoscopic examination of enteric pouch using rigid sigmoidoscope
+44510209	Unspecified diagnostic endoscopic examination of enteric pouch using rigid sigmoidoscope
+44510210	Orthotopic transplantation of liver NEC
+44510211	Heterotopic transplantation of liver
+44510212	Replacement of previous liver transplant
+44510213	Transplantation of liver cells
+44510214	Orthotopic transplantation of whole liver
+44510215	Other specified transplantation of liver
+44510216	Unspecified transplantation of liver
+44510217	Right hemihepatectomy NEC
+44510218	Left hemihepatectomy NEC
+44510219	Resection of segment of liver
+44510220	Wedge excision of liver
+44510221	Marsupialisation of lesion of liver
+44510222	Extended right hemihepatectomy
+44510223	Extended left hemihepatectomy
+44510224	Other specified partial excision of liver
+44510225	Unspecified partial excision of liver
+44510226	Excision of lesion of liver NEC
+44510227	Destruction of lesion of liver NEC
+44510228	Thermal ablation of single lesion of liver
+44510229	Thermal ablation of multiple lesions of liver
+44510230	Excision of multiple lesions of liver
+44510231	Other specified extirpation of lesion of liver
+44510232	Unspecified extirpation of lesion of liver
+44510233	Removal of lacerated fragment of liver
+44510234	Repair of laceration of liver
+44510235	Packing of laceration of liver
+44510236	Other specified repair of liver
+44510237	Unspecified repair of liver
+44510238	Open drainage of liver
+44510239	Open removal of calculus from liver
+44510240	Open wedge biopsy of lesion of liver
+44510241	Other specified incision of liver
+44510242	Unspecified incision of liver
+44510243	Transjugular intrahepatic insertion of stent into portal vein
+44510244	Transjugular intrahepatic insertion of stent graft into portal vein
+44510245	Other specified other transjugular intrahepatic operations on blood vessel of liver
+44510246	Unspecified other transjugular intrahepatic operations on blood vessel of liver
+44510247	Open devascularisation of liver
+44510248	Open insertion of cannula for perfusion of liver
+44510249	Exploration of liver
+44510250	Other specified other open operations on liver
+44510251	Unspecified other open operations on liver
+44510252	Endoscopic removal of calculus from liver using laparoscope
+44510253	Endoscopic insertion of cannula into gall bladder using laparoscope
+44510254	Endoscopic microwave ablation of lesion of liver using laparoscope
+44510255	Other specified therapeutic endoscopic operations on liver using laparoscope
+44510256	Unspecified therapeutic endoscopic operations on liver using laparoscope
+44510257	Diagnostic endoscopic examination of liver and biopsy of lesion of liver using laparoscope
+44510258	Laparoscopic ultrasound examination of liver and biopsy of lesion of liver
+44510259	Laparoscopic ultrasound examination of liver NEC
+44510260	Other specified diagnostic endoscopic examination of liver using laparoscope
+44510261	Unspecified diagnostic endoscopic examination of liver using laparoscope
+44510262	Percutaneous transluminal embolisation of hepatic artery
+44510263	Percutaneous transluminal embolisation of portal vein
+44510264	Percutaneous transluminal injection of therapeutic substance into liver
+44510265	Percutaneous transluminal angioplasty of blood vessel of liver
+44510266	Percutaneous transluminal thrombectomy of blood vessel of liver
+44510267	Percutaneous transluminal thrombolysis of blood vessel of liver
+44510268	Arteriography of hepatic artery
+44510269	Other specified transluminal operations on blood vessel of liver
+44510270	Unspecified transluminal operations on blood vessel of liver
+44510271	Transjugular intrahepatic angioplasty of portal vein
+44510272	Transjugular intrahepatic thrombectomy of portal vein
+44510273	Transjugular intrahepatic thrombolysis of portal vein
+44510274	Transjugular intrahepatic creation of portosystemic shunt
+44510275	Transjugular intrahepatic venography of portal vein
+44510276	Transjugular intrahepatic pressure measurements of portal vein
+44510277	Transjugular intrahepatic pressure measurements of hepatic vein
+44510278	Other specified transjugular intrahepatic operations on blood vessel of liver
+44510279	Unspecified transjugular intrahepatic operations on blood vessel of liver
+44510280	Percutaneous drainage of liver
+44510281	Percutaneous removal of calculus from liver
+44510282	Selective internal radiotherapy with microspheres to lesion of liver
+44510283	Percutaneous radiofrequency ablation of lesion of liver
+44510284	Percutaneous thermal ablation of lesion of liver NEC
+44510285	Percutaneous chemical ablation of lesion of liver
+44510286	Percutaneous microwave ablation of lesion of liver
+44510287	Other specified other therapeutic percutaneous operations on liver
+44510288	Unspecified other therapeutic percutaneous operations on liver
+44510289	Percutaneous transvascular biopsy of lesion of liver
+44510290	Percutaneous biopsy of lesion of liver NEC
+44510291	Other specified diagnostic percutaneous operations on liver
+44510292	Unspecified diagnostic percutaneous operations on liver
+44510293	Biopsy of liver NEC
+44510294	Aspiration of liver NEC
+44510295	Other specified other puncture of liver
+44510296	Unspecified other puncture of liver
+44510297	Percutaneous transluminal insertion of stent graft into hepatic artery
+44510298	Percutaneous transluminal insertion of stent into hepatic artery NEC
+44510299	Percutaneous transluminal insertion of stent graft into blood vessel of liver NEC
+44510300	Percutaneous transluminal insertion of stent into portal vein
+44510301	Percutaneous transluminal insertion of stent graft into portal vein
+44510302	Other specified transluminal insertion of prosthesis into blood vessel of liver
+44510303	Unspecified transluminal insertion of prosthesis into blood vessel of liver
+44510304	Localised perfusion of liver
+44510305	Extracorporeal assistance to liver
+44510306	Other specified other operations on liver
+44510307	Unspecified other operations on liver
+44510308	Endoscopic ultrasound examination of liver and biopsy of lesion of liver
+44510309	Other specified endoscopic ultrasound examination of liver
+44510310	Unspecified endoscopic ultrasound examination of liver
+44510311	Total cholecystectomy and excision of surrounding tissue
+44510312	Total cholecystectomy and exploration of common bile duct
+44510313	Total cholecystectomy NEC
+44510314	Partial cholecystectomy and exploration of common bile duct
+44510315	Partial cholecystectomy NEC
+44510316	Other specified excision of gall bladder
+44510317	Unspecified excision of gall bladder
+44510318	Anastomosis of gall bladder to stomach
+44510319	Anastomosis of gall bladder to duodenum
+44510320	Anastomosis of gall bladder to jejunum
+44510321	Anastomosis of gall bladder to intestine NEC
+44510322	Revision of anastomosis of gall bladder
+44510323	Closure of anastomosis of gall bladder
+44510324	Other specified connection of gall bladder
+44510325	Unspecified connection of gall bladder
+44510326	Closure of fistula of gall bladder
+44510327	Closure of cholecystotomy
+44510328	Repair of perforation of gall bladder
+44510329	Other specified repair of gall bladder
+44510330	Unspecified repair of gall bladder
+44510331	Open removal of calculus from gall bladder
+44510332	Drainage of gall bladder
+44510333	Drainage of tissue surrounding gall bladder
+44510334	Other specified incision of gall bladder
+44510335	Unspecified incision of gall bladder
+44510336	Excision of lesion of gall bladder
+44510337	Open biopsy of lesion of gall bladder
+44510338	Exploration of gall bladder
+44510339	Other specified other open operations on gall bladder
+44510340	Unspecified other open operations on gall bladder
+44510341	Percutaneous drainage of gall bladder
+44510342	Percutaneous fragmentation of calculus in gall bladder
+44510343	Percutaneous dissolution therapy to calculus in gall bladder
+44510344	Other specified therapeutic percutaneous operations on gall bladder
+44510345	Unspecified therapeutic percutaneous operations on gall bladder
+44510346	Percutaneous biopsy of lesion of gall bladder
+44510347	Other specified diagnostic percutaneous operations on gall bladder
+44510348	Unspecified diagnostic percutaneous operations on gall bladder
+44510349	Extracorporeal fragmentation of calculus in gall bladder
+44510350	Other specified other operations on gall bladder
+44510351	Unspecified other operations on gall bladder
+44510352	Excision of ampulla of Vater and replantation of common bile duct into duodenum
+44510353	Partial excision of bile duct and anastomosis of bile duct to duodenum
+44510354	Partial excision of bile duct and anastomosis of bile duct to jejunum
+44510355	Partial excision of bile duct and end to end anastomosis of bile duct
+44510356	Excision of extrahepatic bile ducts HFQ
+44510357	Other specified excision of bile duct
+44510358	Unspecified excision of bile duct
+44510359	Excision of lesion of bile duct
+44510360	Destruction of lesion of bile duct
+44510361	Other specified extirpation of lesion of bile duct
+44510362	Unspecified extirpation of lesion of bile duct
+44510363	Anastomosis of hepatic duct to transposed jejunum and insertion of tubal prosthesis HFQ
+44510364	Anastomosis of hepatic duct to jejunum NEC
+44510365	Revision of anastomosis of hepatic duct
+44510366	Open dilation of anastomosis of hepatic duct
+44510367	Other specified connection of hepatic duct
+44510368	Unspecified connection of hepatic duct
+44510369	Anastomosis of common bile duct to duodenum
+44510370	Anastomosis of common bile duct to transposed jejunum
+44510371	Anastomosis of common bile duct to jejunum NEC
+44510372	Revision of anastomosis of common bile duct
+44510373	Open dilation of anastomosis of common bile duct
+44510374	Other specified connection of common bile duct
+44510375	Unspecified connection of common bile duct
+44510376	Open insertion of tubal prosthesis into both hepatic ducts and common bile duct
+44510377	Open insertion of tubal prosthesis into one hepatic duct and common bile duct
+44510378	Open renewal of tubal prosthesis in bile duct
+44510379	Open removal of tubal prosthesis from bile duct
+44510380	Other specified open introduction of prosthesis into bile duct
+44510381	Unspecified open introduction of prosthesis into bile duct
+44510382	Reconstruction of bile duct
+44510383	Reanastomosis of bile duct
+44510384	Other specified repair of bile duct
+44510385	Unspecified repair of bile duct
+44510386	Open removal of calculus from bile duct and drainage of bile duct
+44510387	Open removal of calculus from bile duct NEC
+44510388	Drainage of bile duct NEC
+44510389	Other specified incision of bile duct
+44510390	Unspecified incision of bile duct
+44510391	Sphincteroplasty of bile duct and pancreatic duct using duodenal approach
+44510392	Sphincteroplasty of bile duct using duodenal approach NEC
+44510393	Sphincteroplasty of pancreatic duct using duodenal approach NEC
+44510394	Other specified plastic repair of sphincter of Oddi using duodenal approach
+44510395	Unspecified plastic repair of sphincter of Oddi using duodenal approach
+44510396	Sphincterotomy of bile duct and pancreatic duct using duodenal approach
+44510397	Sphincterotomy of bile duct using duodenal approach NEC
+44510398	Sphincterotomy of pancreatic duct using duodenal approach NEC
+44510399	Other specified incision of sphincter of Oddi using duodenal approach
+44510400	Unspecified incision of sphincter of Oddi using duodenal approach
+44510401	Excision of ampulla of Vater using duodenal approach
+44510402	Biopsy of lesion of ampulla of Vater using duodenal approach
+44510403	Other specified other operations on ampulla of Vater using duodenal approach
+44510404	Unspecified other operations on ampulla of Vater using duodenal approach
+44510405	Open biopsy of lesion of bile duct
+44510406	Operative cholangiography through cystic duct
+44510407	Direct puncture operative cholangiography
+44510408	Operative choledochoscopy NEC
+44510409	Other specified other open operations on bile duct
+44510410	Unspecified other open operations on bile duct
+44510411	Endoscopic sphincterotomy of sphincter of Oddi and removal of calculus HFQ
+44510412	Endoscopic sphincterotomy of sphincter of Oddi and insertion of tubal prosthesis into bile duct
+44510413	Other specified endoscopic incision of sphincter of Oddi
+44510414	Unspecified endoscopic incision of sphincter of Oddi
+44510415	Endoscopic sphincterotomy of accessory ampulla of Vater
+44510416	Other specified other therapeutic endoscopic operations on ampulla of Vater
+44510417	Unspecified other therapeutic endoscopic operations on ampulla of Vater
+44510418	Endoscopic retrograde insertion of tubal prosthesis into both hepatic ducts
+44510419	Endoscopic retrograde insertion of tubal prosthesis into bile duct NEC
+44510420	Endoscopic retrograde renewal of tubal prosthesis in bile duct NEC
+44510421	Endoscopic retrograde removal of tubal prosthesis from bile duct
+44510422	Endoscopic retrograde insertion of expanding covered metal stent into bile duct
+44510423	Endoscopic retrograde insertion of expanding metal stent into bile duct NEC
+44510424	Endoscopic retrograde renewal of expanding metal stent in bile duct
+44510425	Other specified endoscopic retrograde placement of prosthesis in bile duct
+44510426	Unspecified endoscopic retrograde placement of prosthesis in bile duct
+44510427	Endoscopic retrograde extraction of calculus from bile duct
+44510428	Endoscopic dilation of bile duct NEC
+44510429	Endoscopic retrograde lithotripsy of calculus of bile duct
+44510430	Endoscopic retrograde photodynamic laser therapy of lesion of bile duct
+44510431	Other specified other therapeutic endoscopic retrograde operations on bile duct
+44510432	Unspecified other therapeutic endoscopic retrograde operations on bile duct
+44510433	Endoscopic retrograde insertion of tubal prosthesis into pancreatic duct
+44510434	Endoscopic retrograde renewal of tubal prosthesis in pancreatic duct
+44510435	Endoscopic retrograde removal of calculus from pancreatic duct
+44510436	Endoscopic retrograde drainage of lesion of pancreas
+44510437	Endoscopic retrograde dilation of pancreatic duct
+44510438	Other specified therapeutic endoscopic retrograde operations on pancreatic duct
+44510439	Unspecified therapeutic endoscopic retrograde operations on pancreatic duct
+44510440	Endoscopic retrograde cholangiopancreatography and biopsy of lesion of ampulla of Vater
+44510441	Endoscopic retrograde cholangiopancreatography and biopsy of lesion of biliary or pancreatic system NEC
+44510442	Endoscopic retrograde cholangiopancreatography and collection of bile
+44510443	Other specified diagnostic endoscopic retrograde examination of bile duct and pancreatic duct
+44510444	Unspecified diagnostic endoscopic retrograde examination of bile duct and pancreatic duct
+44510445	Endoscopic retrograde cholangiography and biopsy of lesion of bile duct
+44510446	Other specified diagnostic endoscopic retrograde examination of bile duct
+44510447	Unspecified diagnostic endoscopic retrograde examination of bile duct
+44510448	Endoscopic retrograde pancreatography and biopsy of lesion of pancreas
+44510449	Endoscopic retrograde pancreatography and collection of pancreatic juice
+44510450	Endoscopic retrograde pancreatography through accessory ampulla of Vater
+44510451	Other specified diagnostic endoscopic retrograde examination of pancreatic duct
+44510452	Unspecified diagnostic endoscopic retrograde examination of pancreatic duct
+44510453	Percutaneous dilation of anastomosis of bile duct and insertion of tubal prosthesis HFQ
+44510454	Percutaneous dilation of anastomosis of bile duct NEC
+44510455	Other specified therapeutic percutaneous attention to connection of bile duct
+44510456	Unspecified therapeutic percutaneous attention to connection of bile duct
+44510457	Percutaneous insertion of tubal prosthesis into both hepatic ducts
+44510458	Percutaneous insertion of tubal prosthesis into right hepatic duct NEC
+44510459	Percutaneous insertion of tubal prosthesis into left hepatic duct NEC
+44510460	Percutaneous insertion of tubal prosthesis into hepatic duct NEC
+44510461	Percutaneous insertion of tubal prosthesis into common bile duct
+44510462	Insertion of gastric balloon
+44510463	Attention to gastric balloon
+44510464	Other specified other operations on stomach
+44510465	Unspecified other operations on stomach
+44510466	Gastroduodenectomy
+44510467	Total excision of duodenum
+44510468	Partial excision of duodenum
+44510469	Other specified excision of duodenum
+44510470	Unspecified excision of duodenum
+44510471	Excision of lesion of duodenum
+44510472	Open destruction of lesion of duodenum
+44510473	Other specified open extirpation of lesion of duodenum
+44510474	Unspecified open extirpation of lesion of duodenum
+44510475	Bypass of duodenum by anastomosis of stomach to jejunum
+44510476	Bypass of duodenum by anastomosis of duodenum to duodenum
+44510477	Bypass of duodenum by anastomosis of duodenum to jejunum
+44510478	Bypass of duodenum by anastomosis of duodenum to colon
+44510479	Other specified bypass of duodenum
+44510480	Unspecified bypass of duodenum
+44510481	Closure of perforated ulcer of duodenum
+44510482	Suture of ulcer of duodenum NEC
+44510483	Oversew of blood vessel of duodenal ulcer
+44510484	Other specified operations on ulcer of duodenum
+44510485	Unspecified operations on ulcer of duodenum
+44510486	Open biopsy of lesion of duodenum
+44510487	Closure of perforation of duodenum NEC
+44510488	Open removal of foreign body from duodenum
+44510489	Open insertion of tubal prosthesis into duodenum
+44510490	Incision of duodenum NEC
+44510491	Correction of malrotation of duodenum
+44510492	Other specified other open operations on duodenum
+44510493	Unspecified other open operations on duodenum
+44510494	Endoscopic extirpation of lesion of duodenum
+44510495	Endoscopic dilation of duodenum
+44510496	Endoscopic insertion of tubal prosthesis into duodenum
+44510497	Other specified therapeutic endoscopic operations on duodenum
+44510498	Unspecified therapeutic endoscopic operations on duodenum
+44510499	Diagnostic endoscopic examination of duodenum and biopsy of lesion of duodenum
+44510500	Other specified diagnostic endoscopic examination of duodenum
+44510501	Unspecified diagnostic endoscopic examination of duodenum
+44510502	Intubation of duodenum for studies of pancreatic function HFQ
+44510503	Intubation of duodenum NEC
+44510504	Other specified other operations on duodenum
+44510505	Unspecified other operations on duodenum
+44510506	Total jejunectomy and anastomosis of stomach to ileum
+44510507	Total jejunectomy and anastomosis of duodenum to ileum
+44510508	Total jejunectomy and anastomosis of duodenum to colon
+44510509	Partial jejunectomy and anastomosis of jejunum to ileum
+44510510	Partial jejunectomy and anastomosis of duodenum to colon
+44510511	Other specified excision of jejunum
+44510512	Unspecified excision of jejunum
+44510513	Excision of lesion of jejunum
+44510514	Open destruction of lesion of jejunum
+44510515	Other specified extirpation of lesion of jejunum
+44510516	Unspecified extirpation of lesion of jejunum
+44510517	Creation of jejunostomy
+44510518	Refashioning of jejunostomy
+44510519	Closure of jejunostomy
+44510520	Other specified artificial opening into jejunum
+44510521	Unspecified artificial opening into jejunum
+44510522	Bypass of jejunum by anastomosis of jejunum to jejunum
+44510523	Bypass of jejunum by anastomosis of jejunum to ileum
+44510524	Bypass of jejunum by anastomosis of jejunum to colon
+44510525	Other specified bypass of jejunum
+44510526	Unspecified bypass of jejunum
+44510527	Open jejunoscopy
+44510528	Other specified open endoscopic operations on jejunum
+44510529	Unspecified open endoscopic operations on jejunum
+44510530	Open biopsy of lesion of jejunum
+44510531	Incision of jejunum
+44510532	Closure of perforation of jejunum
+44510533	Open intubation of jejunum
+44510534	Other specified other open operations on jejunum
+44510535	Unspecified other open operations on jejunum
+44510536	Endoscopic extirpation of lesion of jejunum
+44510537	Endoscopic dilation of jejunum
+44510538	Endoscopic insertion of tubal prosthesis into jejunum
+44510539	Other specified therapeutic endoscopic operations on jejunum
+44510540	Unspecified therapeutic endoscopic operations on jejunum
+44510541	Diagnostic endoscopic examination of jejunum and biopsy of lesion of jejunum
+44510542	Other specified diagnostic endoscopic examination of jejunum
+44510543	Unspecified diagnostic endoscopic examination of jejunum
+44510544	Intubation of jejunum for decompression of intestine
+44510545	Intubation of jejunum for measurement of intestinal function
+44510546	Passage of Crosby capsule into jejunum for biopsy of mucosa of jejunum
+44510547	Intubation of jejunum NEC
+44510548	Other specified other operations on jejunum
+44510549	Unspecified other operations on jejunum
+44510550	Allotransplantation of ileum
+44510551	Other specified transplantation of ileum
+44510552	Unspecified transplantation of ileum
+44510553	Ileectomy and anastomosis of stomach to ileum
+44510554	Ileectomy and anastomosis of duodenum to ileum
+44510555	Ileectomy and anastomosis of ileum to ileum
+44510556	Ileectomy and anastomosis of ileum to colon
+44510557	Other specified excision of ileum
+44510558	Unspecified excision of ileum
+44510559	Excision of Meckel's diverticulum
+44510560	Excision of lesion of ileum NEC
+44510561	Open destruction of lesion of ileum
+44510562	Other specified open extirpation of lesion of ileum
+44510563	Unspecified open extirpation of lesion of ileum
+44510564	Bypass of ileum by anastomosis of jejunum to ileum
+44510565	Bypass of ileum by anastomosis of ileum to ileum
+44510566	Bypass of ileum by anastomosis of ileum to caecum
+44510567	Bypass of ileum by anastomosis of ileum to transverse colon
+44510568	Bypass of ileum by anastomosis of ileum to colon NEC
+44510569	Duodenal switch
+44510570	Reversal of duodenal switch
+44510571	Other specified bypass of ileum
+44510572	Unspecified bypass of ileum
+44510573	Anastomosis of ileum to caecum
+44510574	Anastomosis of ileum to transverse colon
+44510575	Anastomosis of ileum to colon NEC
+44510576	Anastomosis of ileum to rectum
+44510577	Anastomosis of ileum to anus and creation of pouch HFQ
+44510578	Other specified other connection of ileum
+44510579	Unspecified other connection of ileum
+44510580	Revision of anastomosis of ileum
+44510581	Closure of anastomosis of ileum
+44510582	Resection of ileostomy
+44510583	Resection of ileocolic anastomosis
+44510584	Other specified attention to connection of ileum
+44510585	Unspecified attention to connection of ileum
+44510586	Creation of continent ileostomy
+44510587	Creation of temporary ileostomy
+44510588	Creation of defunctioning ileostomy
+44510589	Other specified creation of artificial opening into ileum
+44510590	Unspecified creation of artificial opening into ileum
+44510591	Refashioning of ileostomy
+44510592	Repair of prolapse of ileostomy
+44510593	Closure of ileostomy
+44510594	Dilation of ileostomy
+44510595	Reduction of prolapse of ileostomy
+44510596	Resiting of ileostomy
+44510597	Other specified attention to artificial opening into ileum
+44510598	Unspecified attention to artificial opening into ileum
+44510599	Open reduction of intussusception of ileum
+44510600	Open relief of strangulation of ileum
+44510601	Open relief of obstruction of ileum NEC
+44510602	Plication of ileum
+44510603	Other specified intra-abdominal manipulation of ileum
+44510604	Unspecified intra-abdominal manipulation of ileum
+44510605	Open biopsy of lesion of ileum
+44510606	Strictureplasty of ileum
+44510607	Removal of foreign body from ileum
+44510608	Closure of perforation of ileum
+44510609	Exclusion of segment of ileum
+44510610	Open intubation of ileum
+44510611	Other specified other open operations on ileum
+44510612	Unspecified other open operations on ileum
+44510613	Endoscopic extirpation of lesion of ileum
+44510614	Endoscopic dilation of ileum
+44510615	Endoscopic insertion of tubal prosthesis into ileum
+44510616	Other specified therapeutic endoscopic operations on ileum
+44510617	Unspecified therapeutic endoscopic operations on ileum
+44510618	Diagnostic endoscopic examination of ileum and biopsy of lesion of ileum
+44510619	Wireless capsule endoscopy
+44510620	Diagnostic endoscopic balloon examination of ileum
+44510621	Other specified diagnostic endoscopic examination of ileum
+44510622	Unspecified diagnostic endoscopic examination of ileum
+44510623	Radiological reduction of intussusception of ileum using barium enema
+44510624	Intubation of ileum for decompression of intestine
+44510625	Intubation of ileum for studies on function HFQ
+44510626	Intubation of ileum NEC
+44510627	Other specified other operations on ileum
+44510628	Unspecified other operations on ileum
+44510629	Emergency excision of abnormal appendix and drainage HFQ
+44510630	Emergency excision of abnormal appendix NEC
+44510631	Emergency excision of normal appendix
+44510632	Other specified emergency excision of appendix
+44510633	Unspecified emergency excision of appendix
+44510634	Interval appendicectomy
+44510635	Planned delayed appendicectomy NEC
+44510636	Prophylactic appendicectomy NEC
+44510637	Incidental appendicectomy
+44510638	Other specified other excision of appendix
+44510639	Unspecified other excision of appendix
+44510640	Drainage of abscess of appendix
+44510641	Drainage of appendix NEC
+44510642	Exteriorisation of appendix
+44510643	Other specified other operations on appendix
+44510644	Unspecified other operations on appendix
+44510645	Panproctocolectomy and ileostomy
+44510646	Panproctocolectomy and anastomosis of ileum to anus and creation of pouch HFQ
+44510647	Panproctocolectomy and anastomosis of ileum to anus NEC
+44510648	Other specified total excision of colon and rectum
+44510649	Unspecified total excision of colon and rectum
+44510650	Total colectomy and anastomosis of ileum to rectum
+44510651	Total colectomy and ileostomy and creation of rectal fistula HFQ
+44510652	Total colectomy and ileostomy NEC
+44510653	Other specified total excision of colon
+44510654	Unspecified total excision of colon
+44510655	Extended right hemicolectomy and end to end anastomosis
+44510656	Extended right hemicolectomy and anastomosis of ileum to colon
+44510657	Extended right hemicolectomy and anastomosis NEC
+44510658	Extended right hemicolectomy and ileostomy HFQ
+44510659	Extended right hemicolectomy and end to side anastomosis
+44510660	Other specified extended excision of right hemicolon
+44510661	Unspecified extended excision of right hemicolon
+44510662	Right hemicolectomy and end to end anastomosis of ileum to colon
+44510663	Right hemicolectomy and side to side anastomosis of ileum to transverse colon
+44510664	Right hemicolectomy and anastomosis NEC
+44510665	Right hemicolectomy and ileostomy HFQ
+44510666	Right hemicolectomy and end to side anastomosis
+44510667	Other specified other excision of right hemicolon
+44510668	Unspecified other excision of right hemicolon
+44510669	Transverse colectomy and end to end anastomosis
+44510670	Transverse colectomy and anastomosis of ileum to colon
+44510671	Transverse colectomy and anastomosis NEC
+44510672	Transverse colectomy and ileostomy HFQ
+44510673	Transverse colectomy and exteriorisation of bowel NEC
+44510674	Transverse colectomy and end to side anastomosis
+44510675	Other specified excision of transverse colon
+44510676	Unspecified excision of transverse colon
+44510677	Left hemicolectomy and end to end anastomosis of colon to rectum
+44510678	Left hemicolectomy and end to end anastomosis of colon to colon
+44510679	Left hemicolectomy and anastomosis NEC
+44510680	Left hemicolectomy and ileostomy HFQ
+44510681	Left hemicolectomy and exteriorisation of bowel NEC
+44510682	Left hemicolectomy and end to side anastomosis
+44510683	Other specified excision of left hemicolon
+44510684	Unspecified excision of left hemicolon
+44510685	Sigmoid colectomy and end to end anastomosis of ileum to rectum
+44510686	Sigmoid colectomy and anastomosis of colon to rectum
+44510687	Sigmoid colectomy and anastomosis NEC
+44510688	Sigmoid colectomy and ileostomy HFQ
+44510689	Sigmoid colectomy and exteriorisation of bowel NEC
+44510690	Sigmoid colectomy and end to side anastomosis
+44510691	Other specified excision of sigmoid colon
+44510692	Unspecified excision of sigmoid colon
+44510693	Colectomy and end to end anastomosis of colon to colon NEC
+44510694	Colectomy and side to side anastomosis of ileum to colon NEC
+44510695	Colectomy and anastomosis NEC
+44510696	Colectomy and ileostomy NEC
+44510697	Colectomy and exteriorisation of bowel NEC
+44510698	Colectomy and end to side anastomosis NEC
+44510699	Other specified other excision of colon
+44510700	Unspecified other excision of colon
+44510701	Excision of diverticulum of colon
+44510702	Excision of lesion of colon NEC
+44510703	Destruction of lesion of colon NEC
+44510704	Other specified extirpation of lesion of colon
+44510705	Unspecified extirpation of lesion of colon
+44510706	Bypass of colon by anastomosis of ileum to colon
+44510707	Bypass of colon by anastomosis of caecum to sigmoid colon
+44510708	Bypass of colon by anastomosis of transverse colon to sigmoid colon
+44510709	Bypass of colon by anastomosis of transverse colon to rectum
+44510710	Bypass of colon by anastomosis of colon to rectum NEC
+44510711	Other specified bypass of colon
+44510712	Unspecified bypass of colon
+44510713	Tube caecostomy
+44510714	Refashioning of caecostomy
+44510715	Closure of caecostomy
+44510716	Appendicocaecostomy
+44510717	Other specified exteriorisation of caecum
+44510718	Unspecified exteriorisation of caecum
+44510719	Loop colostomy
+44510720	End colostomy
+44510721	Refashioning of colostomy
+44510722	Closure of colostomy
+44510723	Dilation of colostomy
+44510724	Reduction of prolapse of colostomy
+44510725	Percutaneous endoscopic sigmoid colostomy
+44510726	Other specified other exteriorisation of colon
+44510727	Unspecified other exteriorisation of colon
+44510728	Drainage of colon
+44510729	Caecotomy
+44510730	Colotomy
+44510731	Other specified incision of colon
+44510732	Unspecified incision of colon
+44510733	Open reduction of intussusception of colon
+44510734	Open reduction of volvulus of caecum
+44510735	Open reduction of volvulus of sigmoid colon
+44510736	Open reduction of volvulus of colon NEC
+44510737	Open relief of strangulation of colon
+44510738	Open relief of obstruction of colon NEC
+44510739	Other specified intra-abdominal manipulation of colon
+44510740	Unspecified intra-abdominal manipulation of colon
+44510741	Open colonoscopy
+44510742	Other specified open endoscopic operations on colon
+44510743	Unspecified open endoscopic operations on colon
+44510744	Open biopsy of lesion of colon
+44510745	Fixation of colon
+44510746	Enterorrhaphy of colon
+44510747	Open removal of foreign body from colon
+44510748	Other specified other open operations on colon
+44510749	Unspecified other open operations on colon
+44510750	Fibreoptic endoscopic snare resection of lesion of colon
+44510751	Fibreoptic endoscopic cauterisation of lesion of colon
+44510752	Fibreoptic endoscopic laser destruction of lesion of colon
+44510753	Fibreoptic endoscopic destruction of lesion of colon NEC
+44510754	Fibreoptic endoscopic submucosal resection of lesion of colon
+44510755	Fibreoptic endoscopic resection of lesion of colon NEC
+44510756	Other specified endoscopic extirpation of lesion of colon
+44510757	Unspecified endoscopic extirpation of lesion of colon
+44510758	Fibreoptic endoscopic dilation of colon
+44510759	Fibreoptic endoscopic coagulation of blood vessel of colon
+44510760	Fibreoptic endoscopic removal of foreign body from colon
+44510761	Fibreoptic endoscopic insertion of expanding metal stent into colon
+44510762	Other specified other therapeutic endoscopic operations on colon
+44510763	Unspecified other therapeutic endoscopic operations on colon
+44510764	Diagnostic fibreoptic endoscopic examination of colon and biopsy of lesion of colon
+44510765	Other specified diagnostic endoscopic examination of colon
+44510766	Unspecified diagnostic endoscopic examination of colon
+44510767	Endoscopic snare resection of lesion of lower bowel using fibreoptic sigmoidoscope
+44510768	Endoscopic cauterisation of lesion of lower bowel using fibreoptic sigmoidoscope
+44510769	Endoscopic laser destruction of lesion of lower bowel using fibreoptic sigmoidoscope
+44510770	Endoscopic destruction of lesion of lower bowel using fibreoptic sigmoidoscope NEC
+44510771	Endoscopic submucosal resection of lesion of lower bowel using fibreoptic sigmoidoscope
+44510772	Endoscopic resection of lesion of lower bowel using fibreoptic sigmoidoscope NEC
+44510773	Other specified endoscopic extirpation of lesion of lower bowel using fibreoptic sigmoidoscope
+44510774	Unspecified endoscopic extirpation of lesion of lower bowel using fibreoptic sigmoidoscope
+44510775	Endoscopic dilation of lower bowel using fibreoptic sigmoidoscope
+44510776	Endoscopic coagulation of blood vessel of lower bowel using fibreoptic sigmoidoscope
+44510777	Endoscopic insertion of tubal prosthesis into lower bowel using fibreoptic sigmoidoscope
+44510778	Endoscopic insertion of expanding metal stent into lower bowel using fibreoptic sigmoidoscope
+44510779	Other specified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope
+44510780	Unspecified other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope
+44510781	Diagnostic endoscopic examination of lower bowel and biopsy of lesion of lower bowel using fibreoptic sigmoidoscope
+44510782	Diagnostic endoscopic examination of lower bowel and sampling for bacterial overgrowth using fibreoptic sigmoidoscope
+44510783	Other specified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
+44510784	Unspecified diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
+44510785	Endoscopic snare resection of lesion of sigmoid colon using rigid sigmoidoscope
+44510786	Endoscopic cauterisation of lesion of sigmoid colon using rigid sigmoidoscope
+44510787	Endoscopic laser destruction of lesion of sigmoid colon using rigid sigmoidoscope
+44510788	Endoscopic cryotherapy to lesion of sigmoid colon using rigid sigmoidoscope
+44510789	Endoscopic destruction of lesion of sigmoid colon using rigid sigmoidoscope NEC
+44510790	Endoscopic submucosal resection of lesion of sigmoid colon using rigid sigmoidoscope
+44510791	Endoscopic resection of lesion of sigmoid colon using rigid sigmoidoscope NEC
+44510792	Other specified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
+44510793	Unspecified endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
+44510794	Endoscopic dilation of sigmoid colon using rigid sigmoidoscope
+44510795	Endoscopic removal of foreign body from sigmoid colon using rigid sigmoidoscope
+44510796	Endoscopic insertion of tubal prosthesis into sigmoid colon using rigid sigmoidoscope
+44510797	Endoscopic insertion of expanding metal stent into sigmoid colon using rigid sigmoidoscope
+44510798	Other specified other therapeutic endoscopic operations on sigmoid colon using rigid sigmoidoscope
+44510799	Unspecified other therapeutic endoscopic operations on sigmoid colon using rigid sigmoidoscope
+44510800	Diagnostic endoscopic examination of sigmoid colon and biopsy of lesion of sigmoid colon using rigid sigmoidoscope
+44510801	Other specified diagnostic endoscopic examination of sigmoid colon using rigid sigmoidoscope
+44510802	Unspecified diagnostic endoscopic examination of sigmoid colon using rigid sigmoidoscope
+44510803	Subtotal excision of colon and rectum and creation of colonic pouch and anastomosis of colon to anus
+44510804	Subtotal excision of colon and rectum and creation of colonic pouch NEC
+44510805	Subtotal excision of colon and creation of colonic pouch and anastomosis of colon to rectum
+44510806	Subtotal excision of colon and creation of colonic pouch NEC
+44510807	Other specified subtotal excision of colon
+44510808	Unspecified subtotal excision of colon
+44510809	Radiological reduction of intussusception of colon using barium enema
+44510810	Intubation of colon for pressure manometry
+44510811	Passage of flatus tube to reduce volvulus of sigmoid colon
+44510812	Intubation of colon NEC
+44510813	Irrigation of colon
+44510814	Other specified other operations on colon
+44510815	Unspecified other operations on colon
+44510816	Image guided percutaneous occlusion of colorectal fistula
+44510817	Image guided transluminal occlusion of colorectal fistula
+44510818	Image guided balloon dilation of colorectal stricture
+44510819	Image guided insertion of colorectal stent
+44510820	Image guided removal of colorectal stent
+44510821	Other specified image guided colorectal therapeutic operations
+44510822	Unspecified image guided colorectal therapeutic operations
+44510823	Resiting of colostomy
+44510824	Other specified exteriorisation of colon
+44510825	Unspecified exteriorisation of colon
+44510826	Abdominoperineal excision of rectum and end colostomy
+44510827	Proctectomy and anastomosis of colon to anus
+44510828	Anterior resection of rectum and anastomosis of colon to rectum using staples
+44510829	Anterior resection of rectum and anastomosis NEC
+44510830	Rectosigmoidectomy and closure of rectal stump and exteriorisation of bowel
+44510831	Anterior resection of rectum and exteriorisation of bowel
+44510832	Perineal resection of rectum HFQ
+44510833	Other specified excision of rectum
+44510834	Unspecified excision of rectum
+44510835	Open excision of lesion of rectum
+44510836	Open cauterisation of lesion of rectum
+44510837	Open cryotherapy to lesion of rectum
+44510838	Open laser destruction of lesion of rectum
+44510839	Open destruction of lesion of rectum NEC
+44510840	Other specified open extirpation of lesion of rectum
+44510841	Unspecified open extirpation of lesion of rectum
+44510842	Anterior fixation of rectum
+44510843	Posterior fixation of rectum using prosthetic material
+44510844	Posterior fixation of rectum NEC
+44510845	Fixation of rectum using fascia lata
+44510846	Other specified fixation of rectum for prolapse
+44510847	Unspecified fixation of rectum for prolapse
+44510848	Abdominal repair of levator ani muscles
+44510849	Other specified other abdominal operations for prolapse of rectum
+44510850	Unspecified other abdominal operations for prolapse of rectum
+44510851	Trans-sphincteric excision of mucosa of rectum
+44510852	Trans-sphincteric excision of lesion of rectum
+44510853	Trans-sphincteric destruction of lesion of rectum
+44510854	Trans-sphincteric anastomosis of colon to anus
+44510855	Other specified operations on rectum through anal sphincter
+44510856	Unspecified operations on rectum through anal sphincter
+44510857	Rectosigmoidectomy and peranal anastomosis
+44510858	Peranal excision of lesion of rectum
+44510859	Peranal destruction of lesion of rectum
+44510860	Peranal mucosal proctectomy and endoanal anastomosis
+44510861	Peranal resection of rectum using staples
+44510862	Other specified other operations on rectum through anus
+44510863	Unspecified other operations on rectum through anus
+44510864	Other specified therapeutic percutaneous insertion of prosthesis into bile duct
+44510865	Unspecified therapeutic percutaneous insertion of prosthesis into bile duct
+44510866	Renewal of percutaneously inserted tubal prosthesis in bile duct
+44510867	Removal of percutaneously inserted tubal prosthesis from bile duct
+44510868	Attention to percutaneously inserted tubal prosthesis in bile duct NEC
+44510869	Percutaneous photodynamic therapy of lesion of bile duct
+44510870	Percutaneous transhepatic biliary drainage multiple
+44510871	Percutaneous transhepatic biliary drainage single
+44510872	Percutaneous brachytherapy of lesion of bile duct
+44510873	Other specified other therapeutic percutaneous operations on bile duct
+44510874	Unspecified other therapeutic percutaneous operations on bile duct
+44510875	Endoscopic removal of calculus from bile duct along T tube track
+44510876	Percutaneous removal of calculus from bile duct along T tube track
+44510877	Other specified therapeutic operations on bile duct along T tube track
+44510878	Unspecified therapeutic operations on bile duct along T tube track
+44510879	T tube cholangiography
+44510880	Percutaneous cholangiography NEC
+44510881	Percutaneous transbiliary biopsy of lesion of bile duct
+44510882	Percutaneous transjejunal cholangiography
+44510883	Percutaneous transhepatic cholangiography
+44510884	Percutaneous transjejunal examination of bile duct NEC
+44510885	Percutaneous transhepatic cholangioscopy
+44510886	Other specified percutaneous examination of bile duct
+44510887	Unspecified percutaneous examination of bile duct
+44510888	Laparoscopic ultrasound examination of bile duct and biopsy of lesion of bile duct
+44510889	Other specified laparoscopic ultrasound examination of bile duct
+44510890	Unspecified laparoscopic ultrasound examination of bile duct
+44510891	Extracorporeal lithotripsy of calculus in bile duct
+44510892	Other specified other operations on bile duct
+44510893	Unspecified other operations on bile duct
+44510894	Endoscopic ultrasound examination of bile duct and biopsy of lesion of bile duct
+44510895	Other specified endoscopic ultrasound examination of bile duct
+44510896	Unspecified endoscopic ultrasound examination of bile duct
+44510897	Transplantation of pancreas and duodenum
+44510898	Transplantation of whole pancreas
+44510899	Transplantation of tail of pancreas
+44510900	Transplantation of islet of Langerhans
+44510901	Renewal of transplanted pancreatic tissue
+44510902	Other specified transplantation of pancreas
+44510903	Unspecified transplantation of pancreas
+44510904	Total pancreatectomy and excision of surrounding tissue
+44510905	Total pancreatectomy NEC
+44510906	Excision of transplanted pancreas
+44510907	Other specified total excision of pancreas
+44510908	Unspecified total excision of pancreas
+44510909	Pancreaticoduodenectomy and excision of surrounding tissue
+44510910	Pancreaticoduodenectomy and resection of antrum of stomach
+44510911	Pancreaticoduodenectomy NEC
+44510912	Subtotal excision of head of pancreas with preservation of duodenum and drainage HFQ
+44510913	Other specified excision of head of pancreas
+44510914	Unspecified excision of head of pancreas
+44510915	Subtotal pancreatectomy
+44510916	Left pancreatectomy and drainage of pancreatic duct
+44510917	Left pancreatectomy NEC
+44510918	Excision of tail of pancreas and drainage of pancreatic duct
+44510919	Excision of tail of pancreas NEC
+44510920	Pancreatic necrosectomy
+44510921	Other specified other partial excision of pancreas
+44510922	Unspecified other partial excision of pancreas
+44510923	Excision of lesion of islet of Langerhans
+44510924	Excision of lesion of pancreas NEC
+44510925	Destruction of lesion of pancreas
+44510926	Other specified extirpation of lesion of pancreas
+44510927	Unspecified extirpation of lesion of pancreas
+44510928	Anastomosis of pancreatic duct to stomach
+44510929	Anastomosis of pancreatic duct to duodenum
+44510930	Anastomosis of pancreatic duct to transposed jejunum
+44510931	Anastomosis of pancreatic duct to jejunum NEC
+44510932	Revision of anastomosis of pancreatic duct
+44510933	Closure of anastomosis of pancreatic duct
+44510934	Other specified connection of pancreatic duct
+44510935	Unspecified connection of pancreatic duct
+44510936	Drainage of pancreatic duct
+44510937	Open removal of calculus from pancreatic duct
+44510938	Insertion of T tube into pancreatic duct
+44510939	Open insertion of tubal prosthesis into pancreatic duct
+44510940	Open dilation of pancreatic duct
+44510941	Other specified other open operations on pancreatic duct
+44510942	Unspecified other open operations on pancreatic duct
+44510943	Open cystogastrotomy of pancreas
+44510944	Drainage of cyst of pancreas into transposed jejunum
+44510945	Drainage of cyst of pancreas into jejunum NEC
+44510946	Drainage of cyst of pancreas NEC
+44510947	Other specified open drainage of lesion of pancreas
+44510948	Unspecified open drainage of lesion of pancreas
+44510949	Division of annular pancreas
+44510950	Other specified incision of pancreas
+44510951	Unspecified incision of pancreas
+44510952	Open pancreatography through tail of pancreas
+44510953	Open pancreatography through papilla of Vater
+44510954	Open pancreatography NEC
+44510955	Other specified open examination of pancreas
+44510956	Unspecified open examination of pancreas
+44510957	Open biopsy of lesion of pancreas
+44510958	Other specified other open operations on pancreas
+44510959	Unspecified other open operations on pancreas
+44510960	Percutaneous drainage of lesion of pancreas and insertion of cystogastrostomy tube NEC
+44510961	Percutaneous drainage of lesion of pancreas and insertion of temporary external drain HFQ
+44510962	Percutaneous drainage of lesion of pancreas NEC
+44511339	Percutaneous aspiration of lesion of pancreas
+44511340	Percutaneous chemical ablation of lesion of pancreas
+44511341	Other specified therapeutic percutaneous operations on pancreas
+44511342	Unspecified therapeutic percutaneous operations on pancreas
+44511343	Diagnostic percutaneous aspiration of lesion of pancreas
+44511344	Percutaneous puncture of pancreatic duct and pancreatography
+44511345	Percutaneous biopsy of lesion of pancreas
+44511346	Other specified diagnostic percutaneous operations on pancreas
+44511347	Unspecified diagnostic percutaneous operations on pancreas
+44511348	Extracorporeal shockwave lithotripsy of calculus of pancreas
+44511349	Other specified other operations on pancreas
+44511350	Unspecified other operations on pancreas
+44511351	Total excision of spleen and replantation of fragments of spleen
+44511352	Total splenectomy
+44511353	Excision of accessory spleen
+44511354	Other specified total excision of spleen
+44511355	Unspecified total excision of spleen
+44511356	Partial splenectomy
+44511357	Marsupialisation of lesion of spleen
+44511358	Other specified other excision of spleen
+44511359	Unspecified other excision of spleen
+44511360	Transplantation of spleen
+44511361	Embolisation of spleen
+44511362	Biopsy of lesion of spleen
+44511363	Repair of spleen
+44511364	Banding of spleen
+44511365	Other specified other operations on spleen
+44511366	Unspecified other operations on spleen
+44511367	Laparoscopic ultrasound examination of pancreas and biopsy of lesion of pancreas
+44511368	Other specified laparoscopic ultrasound examination of pancreas
+44511369	Unspecified laparoscopic ultrasound examination of pancreas
+44511370	Endoscopic ultrasound examination of pancreas and biopsy of lesion of pancreas
+44511371	Other specified endoscopic ultrasound examination of pancreas
+44511372	Unspecified endoscopic ultrasound examination of pancreas
+44511373	Percutaneous transhepatic removal of calculus from bile duct
+44511374	Percutaneous balloon dilation of bile duct
+44511375	Other specified therapeutic percutaneous operations on bile duct
+44511376	Unspecified therapeutic percutaneous operations on bile duct
+44511377	Percutaneous transhepatic portal venous sampling
+44511378	Other specified other transluminal operations on blood vessel of liver
+44511379	Unspecified other transluminal operations on blood vessel of liver
+46232424	Excision of oesophagus and stomach
+46232425	Total excision of oesophagus
+46232426	Partial excision of oesophagus
+46232427	Open extirpation of lesion of oesophagus
+46232428	Bypass of oesophagus
+46232429	Attention to connection of oesophagus
+46232430	Repair of oesophagus
+46232431	Artificial opening into oesophagus
+46232432	Incision of oesophagus
+46232433	Open operations on varices of oesophagus
+46232434	Open placement of prosthesis in oesophagus
+46232435	Other open operations on oesophagus
+46232436	Fibreoptic endoscopic extirpation of lesion of oesophagus
+46232437	Other therapeutic fibreoptic endoscopic operations on oesophagus
+46232438	Diagnostic fibreoptic endoscopic examination of oesophagus
+46232439	Endoscopic extirpation of lesion of oesophagus using rigid oesophagoscope
+46232440	Other therapeutic endoscopic operations on oesophagus using rigid oesophagoscope
+46232441	Diagnostic endoscopic examination of oesophagus using rigid oesophagoscope
+46232442	Other operations on oesophagus
+46232443	Repair of diaphragmatic hernia
+46232444	Antireflux operations
+46232445	Revision of antireflux operations
+46232446	Transplantation of stomach
+46232447	Total excision of stomach
+46232448	Partial excision of stomach
+46232449	Open extirpation of lesion of stomach
+46232450	Plastic operations on stomach
+46232451	Connection of stomach to duodenum
+46232452	Connection of stomach to transposed jejunum
+46232453	Other connection of stomach to jejunum
+46232454	Artificial opening into stomach
+46232455	Operations on ulcer of stomach
+46232456	Other repair of stomach
+46232457	Other open operations on stomach
+46232458	Incision of pylorus
+46232459	Other operations on pylorus
+46232460	Other fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
+46232461	Fibreoptic endoscopic extirpation of lesion of upper gastrointestinal tract
+46232462	Other therapeutic fibreoptic endoscopic operations on upper gastrointestinal tract
+46232463	Diagnostic fibreoptic endoscopic examination of upper gastrointestinal tract
+46232464	Therapeutic fibreoptic endoscopic operations on upper gastrointestinal tract
+46232465	Intubation of stomach
+46232466	Other operations on stomach
+46232467	Excision of duodenum
+46232468	Open extirpation of lesion of duodenum
+46232469	Bypass of duodenum
+46232470	Operations on ulcer of duodenum
+46232471	Other open operations on duodenum
+46232472	Therapeutic endoscopic operations on duodenum
+46232473	Diagnostic endoscopic examination of duodenum
+46232474	Other operations on duodenum
+46232475	Excision of jejunum
+46232476	Extirpation of lesion of jejunum
+46232477	Artificial opening into jejunum
+46232478	Bypass of jejunum
+46232479	Open endoscopic operations on jejunum
+46232480	Other open operations on jejunum
+46232481	Therapeutic endoscopic operations on jejunum
+46232482	Diagnostic endoscopic examination of jejunum
+46232483	Other operations on jejunum
+46232484	Transplantation of ileum
+46232485	Excision of ileum
+46232486	Open extirpation of lesion of ileum
+46232487	Bypass of ileum
+46232488	Other connection of ileum
+46232489	Attention to connection of ileum
+46232490	Creation of artificial opening into ileum
+46232491	Attention to artificial opening into ileum
+46232492	Intra-abdominal manipulation of ileum
+46232493	Other open operations on ileum
+46232494	Therapeutic endoscopic operations on ileum
+46232495	Diagnostic endoscopic examination of ileum
+46232496	Other operations on ileum
+46232497	Emergency excision of appendix
+46232498	Other excision of appendix
+46232499	Other operations on appendix
+46232500	Total excision of colon and rectum
+46232501	Total excision of colon
+46232502	Extended excision of right hemicolon
+46232503	Other excision of right hemicolon
+46232504	Excision of transverse colon
+46232505	Excision of left hemicolon
+46232506	Excision of sigmoid colon
+46232507	Other excision of colon
+46232508	Extirpation of lesion of colon
+46232509	Bypass of colon
+46232510	Exteriorisation of caecum
+46232511	Other exteriorisation of colon
+46232512	Incision of colon
+46232513	Intra-abdominal manipulation of colon
+46232514	Open endoscopic operations on colon
+46232515	Other open operations on colon
+46232516	Endoscopic extirpation of lesion of colon
+46232517	Other therapeutic endoscopic operations on colon
+46232518	Diagnostic endoscopic examination of colon
+46232519	Endoscopic extirpation of lesion of lower bowel using fibreoptic sigmoidoscope
+46232520	Other therapeutic endoscopic operations on lower bowel using fibreoptic sigmoidoscope
+46232521	Diagnostic endoscopic examination of lower bowel using fibreoptic sigmoidoscope
+46232522	Endoscopic extirpation of lesion of sigmoid colon using rigid sigmoidoscope
+46232523	Other therapeutic endoscopic operations on sigmoid colon using rigid sigmoidoscope
+46232524	Diagnostic endoscopic examination of sigmoid colon using rigid sigmoidoscope
+46232525	Subtotal excision of colon
+46232526	Other operations on colon
+46232527	Image guided colorectal therapeutic operations
+46232528	Exteriorisation of colon
+46232529	Excision of rectum
+46232530	Open extirpation of lesion of rectum
+46232531	Fixation of rectum for prolapse
+46232532	Other abdominal operations for prolapse of rectum
+46232533	Operations on rectum through anal sphincter
+46232534	Other operations on rectum through anus
+46232535	Perineal operations for prolapse of rectum
+46232536	Manipulation of rectum
+46232537	Other operations on rectum
+46232538	Excision of anus
+46232539	Excision of lesion of anus
+46232540	Destruction of lesion of anus
+46232541	Repair of anus
+46232542	Excision of haemorrhoid
+46232543	Destruction of haemorrhoid
+46232544	Other operations on haemorrhoid
+46232545	Dilation of anal sphincter
+46232546	Other operations on perianal region
+46232547	Other operations on anus
+46232548	Other operations on the anal sphincter to control continence
+46232549	Drainage through perineal region
+46232550	Excision of pilonidal sinus
+46232551	Other operations on pilonidal sinus
+46232552	Other operations on bowel
+46232553	Therapeutic operations on ileoanal pouch
+46232554	Diagnostic endoscopic examination of enteric pouch using colonoscope
+46232555	Diagnostic endoscopic examination of enteric pouch using fibreoptic sigmoidoscope
+46232556	Diagnostic endoscopic examination of enteric pouch using rigid sigmoidoscope
+46232557	Transplantation of liver
+46232558	Partial excision of liver
+46232559	Extirpation of lesion of liver
+46232560	Repair of liver
+46232561	Incision of liver
+46232562	Other transjugular intrahepatic operations on blood vessel of liver
+46232563	Other open operations on liver
+46232564	Therapeutic endoscopic operations on liver using laparoscope
+46232565	Diagnostic endoscopic examination of liver using laparoscope
+46232566	Transluminal operations on blood vessel of liver
+46232567	Transjugular intrahepatic operations on blood vessel of liver
+46232568	Other therapeutic percutaneous operations on liver
+46232569	Diagnostic percutaneous operations on liver
+46232570	Other puncture of liver
+46232571	Transluminal insertion of prosthesis into blood vessel of liver
+46232572	Other operations on liver
+46232573	Endoscopic ultrasound examination of liver
+46232574	Excision of gall bladder
+46232575	Connection of gall bladder
+46232576	Repair of gall bladder
+46232577	Incision of gall bladder
+46232578	Other open operations on gall bladder
+46232579	Therapeutic percutaneous operations on gall bladder
+46232580	Diagnostic percutaneous operations on gall bladder
+46232581	Other operations on gall bladder
+46232582	Excision of bile duct
+46232583	Extirpation of lesion of bile duct
+46232584	Connection of hepatic duct
+46232585	Connection of common bile duct
+46232586	Open introduction of prosthesis into bile duct
+46232587	Repair of bile duct
+46232588	Incision of bile duct
+46232589	Plastic repair of sphincter of Oddi using duodenal approach
+46232590	Incision of sphincter of Oddi using duodenal approach
+46232591	Other operations on ampulla of Vater using duodenal approach
+46232592	Other open operations on bile duct
+46232593	Endoscopic incision of sphincter of Oddi
+46232594	Other therapeutic endoscopic operations on ampulla of Vater
+46232595	Endoscopic retrograde placement of prosthesis in bile duct
+46232596	Other therapeutic endoscopic retrograde operations on bile duct
+46232597	Therapeutic endoscopic retrograde operations on pancreatic duct
+46232598	Diagnostic endoscopic retrograde examination of bile duct and pancreatic duct
+46232599	Diagnostic endoscopic retrograde examination of bile duct
+46232600	Diagnostic endoscopic retrograde examination of pancreatic duct
+46232601	Therapeutic percutaneous attention to connection of bile duct
+46232602	Therapeutic percutaneous insertion of prosthesis into bile duct
+46232603	Other therapeutic percutaneous operations on bile duct
+46232604	Therapeutic operations on bile duct along T tube track
+46232605	Percutaneous examination of bile duct
+46232606	Laparoscopic ultrasound examination of bile duct
+46232607	Other operations on bile duct
+46232608	Endoscopic ultrasound examination of bile duct
+46232609	Transplantation of pancreas
+46232610	Total excision of pancreas
+46232611	Excision of head of pancreas
+46232612	Other partial excision of pancreas
+46232613	Extirpation of lesion of pancreas
+46232614	Connection of pancreatic duct
+46232615	Other open operations on pancreatic duct
+46232616	Open drainage of lesion of pancreas
+46232617	Incision of pancreas
+46232618	Open examination of pancreas
+46232619	Other open operations on pancreas
+46232620	Therapeutic percutaneous operations on pancreas
+46232621	Diagnostic percutaneous operations on pancreas
+46232622	Other operations on pancreas
+46232623	Total excision of spleen
+46232624	Other excision of spleen
+46232625	Other operations on spleen
+46232626	Laparoscopic ultrasound examination of pancreas
+46232627	Endoscopic ultrasound examination of pancreas
+46232628	Therapeutic percutaneous operations on bile duct
+46232629	Other transluminal operations on blood vessel of liver

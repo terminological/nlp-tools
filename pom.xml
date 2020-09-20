@@ -4,7 +4,8 @@
 	xmlns="http://maven.apache.org/POM/4.0.0"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.github.terminological</groupId>
+<!-- 	<groupId>com.github.terminological</groupId> -->
+	<groupId>uk.co.terminological</groupId>
 	<version>master-SNAPSHOT</version>
 	<artifactId>nlp-tools</artifactId>
 	<name>nlp-tools</name>
@@ -80,7 +81,7 @@
 		<dependency>
 			<groupId>com.github.terminological</groupId>
 			<artifactId>exotic-datatypes</artifactId>
-			<version>1.0</version>
+			<version>master-SNAPSHOT</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.commons</groupId>

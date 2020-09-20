@@ -48,22 +48,6 @@ public class TopicModelBuilder implements Serializable {
 		}
 	}
 
-	@Deprecated
-	public TopicModelResult executeDMR() {
-		try {
-		this.instances.addThruPipe(getCorpus().tokenSequenceIterator());
-		ParallelTopicModel model = new ParallelTopicModel(getTopics());
-		model.addInstances(instances);
-		model.setNumThreads(2);
-		model.setNumIterations(1000);
-		model.estimate();
-		return new TopicModelResult(model,this);
-		} catch (Exception e) {
-			e.printStackTrace();
-			throw new RuntimeException(e);
-		}
-	}
-
 	public int getTopics() {
 		return topics;
 	}

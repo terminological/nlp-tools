@@ -155,7 +155,7 @@ public class StringCrossMapper implements Serializable {
 		// int count = 0;
  		
  		for (Document doc: sourceCorpus.getDocuments()) {
- 			Set<Document> targets = doc.tfIdfOrder()
+ 			Set<Document> targets = doc.getTerms().stream()
  					.flatMap(term -> targetCorpus.getMatchingTerm(term).stream())
  					.flatMap(term -> term.getDocumentsUsing().stream())
  					.collect(Collectors.toSet());
@@ -199,7 +199,7 @@ public class StringCrossMapper implements Serializable {
 		// int count = 0;
  		
  		for (Document doc: sourceCorpus.getDocuments()) {
- 			Set<Document> targets = doc.tfIdfOrder()
+ 			Set<Document> targets = doc.getTerms().stream()
  					.flatMap(term -> targetCorpus.getMatchingTerm(term).stream())
  					.flatMap(term -> term.getDocumentsUsing().stream())
  					.collect(Collectors.toSet());

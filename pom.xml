@@ -5,16 +5,21 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 <!-- 	<groupId>com.github.terminological</groupId> -->
-	<groupId>uk.co.terminological</groupId>
 	<version>master-SNAPSHOT</version>
 	<artifactId>nlp-tools</artifactId>
 	<name>nlp-tools</name>
 	<url>http://maven.apache.org</url>
 	
+	<parent>
+		<groupId>io.github.terminological</groupId>
+		<artifactId>m2repo</artifactId>
+		<version>0.0.5-SNAPSHOT</version>
+	</parent>
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<maven.compiler.source>9</maven.compiler.source>
-		<maven.compiler.target>9</maven.compiler.target>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
 	</properties>
 
 	
@@ -61,11 +66,11 @@
 			<version>25.0-jre</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.github.steveash.mallet/mallet -->
-		<dependency>
-		    <groupId>com.github.terminological</groupId>
-		    <artifactId>Mallet</artifactId>
-		    <version>cc418d934a</version>
-		</dependency>
+<!--		<dependency>-->
+<!--		    <groupId>com.github.terminological</groupId>-->
+<!--		    <artifactId>Mallet</artifactId>-->
+<!--		    <version>cc418d934a</version>-->
+<!--		</dependency>-->
 
 		<dependency>
 			<groupId>com.koloboke</groupId>
@@ -79,9 +84,9 @@
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.github.terminological</groupId>
+			<groupId>io.github.terminological</groupId>
 			<artifactId>exotic-datatypes</artifactId>
-			<version>master-SNAPSHOT</version>
+			<version>1.0.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.commons</groupId>
@@ -98,19 +103,26 @@
     		<version>0.40</version>
 		</dependency>
 		
+		<!-- Source: https://mvnrepository.com/artifact/cc.mallet/mallet -->
+		<dependency>
+		    <groupId>cc.mallet</groupId>
+		    <artifactId>mallet</artifactId>
+		    <version>2.1.0</version>	    
+		</dependency>
+		
 		<!-- https://mvnrepository.com/artifact/cc.mallet/mallet -->
 		<!-- <dependency> <groupId>cc.mallet</groupId> <artifactId>mallet</artifactId> 
 			<version>2.0.9-SNAPSHOT</version> </dependency> -->
 
 	</dependencies>
-	<repositories>
-		<repository>
-			<id>jitpack.io</id>
-			<url>https://jitpack.io</url>
-		</repository>
-		<repository>
-			<id>ossrh</id>
-			<url>https://oss.sonatype.org/content/repositories/snapshots</url>
-		</repository>
-	</repositories>
+<!--	<repositories>-->
+<!--		<repository>-->
+<!--			<id>jitpack.io</id>-->
+<!--			<url>https://jitpack.io</url>-->
+<!--		</repository>-->
+<!--		<repository>-->
+<!--			<id>ossrh</id>-->
+<!--			<url>https://oss.sonatype.org/content/repositories/snapshots</url>-->
+<!--		</repository>-->
+<!--	</repositories>-->
 </project>
